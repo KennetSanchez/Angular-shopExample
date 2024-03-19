@@ -2,3 +2,18 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.top-right {
+    width: 100%;
+    text-align: right;
+}
+
+.wrapper-nav > * {
+    padding: 10px;
+    color: white;
+    text-decoration:none;
+}
+
+.wrapper-nav a:active {
+    color: gray;
+}
